@@ -7,7 +7,6 @@ import { HeaderWrapper } from './style'
 const Header = memo(() => {
   return (
     <HeaderWrapper>
-      <h3>你好</h3>
       <HeaderLeft />
       <HeaderCenter />
       <HeaderRight />
